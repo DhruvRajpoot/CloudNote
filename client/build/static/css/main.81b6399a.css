@@ -1,0 +1,2 @@
+*{font-family:"Serif"}.crudBtn:hover{color:#292020}.crudBtn:active{color:#fff}.social:hover{color:#a7a7a7}#aboutDiv{font-size:calc(1rem + .2vw);padding:calc(.5rem + 1vw)}#aboutPara{font-style:italic}.formInp{border:none;border-bottom:.5px solid #2a2a2a}.menuBtn[aria-expanded=false] .fa-caret-up,.menuBtn[aria-expanded=true] .fa-caret-down{display:none}@media (max-width:720px){#loginForm,#signupForm{width:96%}.captchaPara{display:block}}@media (min-width:720px){#emailRegisteredSignUp{bottom:.3rem;position:absolute;right:.8rem}}
+/*# sourceMappingURL=main.81b6399a.css.map*/
